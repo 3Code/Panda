@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panda2", "Panda2\Panda2.csproj", "{31C4BA64-E34B-4137-86DA-BF10BA6147E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panda2.Tests", "Panda2.Tests\Panda2.Tests.csproj", "{F231AE5E-BFF6-4B82-B3A3-828BC95DD65E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31C4BA64-E34B-4137-86DA-BF10BA6147E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C4BA64-E34B-4137-86DA-BF10BA6147E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C4BA64-E34B-4137-86DA-BF10BA6147E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C4BA64-E34B-4137-86DA-BF10BA6147E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F231AE5E-BFF6-4B82-B3A3-828BC95DD65E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F231AE5E-BFF6-4B82-B3A3-828BC95DD65E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F231AE5E-BFF6-4B82-B3A3-828BC95DD65E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F231AE5E-BFF6-4B82-B3A3-828BC95DD65E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
