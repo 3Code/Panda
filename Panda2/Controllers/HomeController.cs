@@ -28,5 +28,12 @@ namespace Panda2.Controllers
 
             return View();
         }
+
+        public ActionResult DataDik()
+        {
+            ViewBag.Message = "Data Pendidikan";
+
+            return View();
+        }
     }
 }
